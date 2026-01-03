@@ -1,4 +1,4 @@
-from agent import SimpleAgent
+from OLD_agent import SimpleAgent
 
 agent = SimpleAgent("Agent-1")
 
